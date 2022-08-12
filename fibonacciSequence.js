@@ -14,5 +14,5 @@ function fibonacciGenerator(n) {
   }
   return fibonacciArray;
 }
-output = fibonacciGenerator(30);
+output = fibonacciGenerator(5);
 console.log(output);
