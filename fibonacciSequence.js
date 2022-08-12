@@ -1,5 +1,4 @@
 function fibonacciGenerator(n) {
-
   var fibonacciArray = [];
   if (n === 1) {
     fibonacciArray.push(0);
