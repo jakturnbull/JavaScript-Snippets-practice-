@@ -5,4 +5,4 @@ function HouseKeeper(name,age,rightToWork,willingToClean){
   this.willingToClean = willingToClean;
 }
 var houseKeeper1 = new HouseKeeper("jan", 19, true , ["toilets","bedrooms","windows"]);
-console.log(houseKeeper1);
+console.log(houseKeeper1.name);
