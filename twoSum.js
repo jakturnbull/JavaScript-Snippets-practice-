@@ -1,6 +1,3 @@
-
-
-
 function twoSum(nums, target) {
 var number=[];
   for(var i = 0; i <=nums.length-1; i++){
